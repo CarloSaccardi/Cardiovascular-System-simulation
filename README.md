@@ -1,2 +1,2 @@
 # Cardiovascular-System-simulation
-Simulation of aortic stenosis impacts on the cardiovascular system
+Simulation of aortic stenosis effects on the cardiovascular system
